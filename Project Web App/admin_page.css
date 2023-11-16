@@ -1,0 +1,28 @@
+body {
+    background-color: #6d4a9f;
+}
+
+.content {
+    text-align: center;
+}
+
+.patch {
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid black;
+}
+
+.patch td, th {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.button {
+    background-color: black;
+    color: gold;
+}
+
+.troll {
+    text-align: center;
+}

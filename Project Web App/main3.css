@@ -1,0 +1,91 @@
+.header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ 
+ body {
+    background-color: #533b74;
+ }
+ .header-title {
+    position: absolute;
+    top: 3%;
+    left: 37%;
+    right: 20%;
+    font-size: large;
+    color: gold;
+ }
+ 
+ .tablink {
+   background-color: #533b74;
+   color: black;
+   float: left;
+   border: none;
+   outline: none;
+   cursor: pointer;
+   padding: 14px 16px;
+   font-size: 17px;
+   width: 25%;
+ }
+ 
+ .tablink:hover {
+   background-color: #777;
+ }
+ 
+ /* Style the tab content (and add height:100% for full page content) */
+ .tabcontent {
+   color: white;
+   display: none;
+   padding: 100px 20px;
+   height: 100%;
+ }
+ 
+ .container {
+   padding: 16px;
+ }
+ 
+ .tablink a {
+   text-decoration: none;
+   color: black;
+ }
+ 
+  .meta-hero {
+    list-style: none;
+    padding-left: 20%;
+    margin: 10px;
+    align-items: center;
+  }
+ 
+  ul img {
+    float: left;
+    padding: 30px;
+  }
+ 
+  .user_login a {
+   text-decoration: none;
+   color: gold;
+  }
+
+.achievement ul, li {
+    list-style: none;
+}
+
+.achievement strong {
+    color: gold;
+}
+
+.patch {
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid black;
+}
+
+.patch td, th {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+ 
